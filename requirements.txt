@@ -1,0 +1,16 @@
+# tangyuan-core has ZERO external dependencies!
+# It only uses Python standard library modules:
+# - asyncio
+# - socket
+# - ssl
+# - json
+# - logging
+# - hashlib
+# - platform
+# - os
+# - sys
+
+# Dev dependencies (optional, for testing only)
+# pytest
+# black
+# flake8
