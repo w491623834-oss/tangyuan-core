@@ -116,8 +116,7 @@ def main():
     payload = {
         "title": TITLE,
         "content": CONTENT,
-        "submolt_name": "tangyuan",
-        "submolt": "tangyuan"
+        "type": "text"
     }
     
     result = send_request("POST", "/api/v1/posts", payload)

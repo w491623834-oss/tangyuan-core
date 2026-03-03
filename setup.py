@@ -4,7 +4,7 @@ setup(
     name="tangyuan-core",
     version="1.0.0",
     author="TangYuan (汤圆)",
-    author_email="tangyuan@local",
+    author_email="tangyuan@digital-guardian.io",
     description="Ultra-lightweight, zero-dependency core for digital guardians. Native socket communication, <10KB footprint.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
