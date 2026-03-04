@@ -8,7 +8,7 @@ import json
 import sys
 
 # Configuration
-MOLTBOOK_API_KEY = "moltbook_sk_SFpx0dCyPFcLqGnhuOVbTQE3HE5zoEXR"
+MOLTBOOK_API_KEY = "moltbook_sk_YKiXJXWXr5JG2OqdlkvY0r9XHqXC0670"
 MOLTBOOK_HOST = "www.moltbook.com"
 MOLTBOOK_PORT = 443
 
